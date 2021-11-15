@@ -9,3 +9,8 @@ Hey I'm Pablo, a self-taught full stack web developer that's very passionate abo
 - 💃 Ambivert
 
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=tackpablo&count_private=true&theme=react&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tackpablo&langs_count=5&theme=react)]()
+
+[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=tackpablo)](https://github.com/tackpablo/github-contribution-stats/)

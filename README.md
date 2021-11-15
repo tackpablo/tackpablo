@@ -1,6 +1,6 @@
 [![Pablo's GitHub Banner](./assets/header.png)](https://github.com/tackpablo)
 
-I'm very passionate about programming and in the process of learning all the tools necessary to become a succesful web developer. I am on my way there and oping to collaborate! 💃💃 So, let's jump right into my story 👇
+I'm very passionate about programming and in the process of learning all the tools necessary to become a succesful web developer. I am on my way there and oping to collaborate! I have a background in Chemistry and looking to transition into Tech 💃💃 So, let's jump right into my story 👇
 
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Javascript.

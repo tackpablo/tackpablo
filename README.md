@@ -1,12 +1,12 @@
 [![Pablo's GitHub Banner](./assets/header.png)](https://github.com/tackpablo)
 
-I'm very passionate about programming and in the process of learning all the tools necessary to become a succesful web developer. I am on my way there and oping to collaborate! I have a background in Chemistry and looking to transition into Tech 💃💃 So, let's jump right into my story 👇
+I'm very passionate about programming and in the process of learning all the tools necessary to become a succesful web developer. I am on my way there and hoping to collaborate! I have a background in the Sciences and looking to transition into Tech :raised_hands::raised_hands: So, let's jump right into my story 👇
 
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Javascript.
 - 👭 I'm looking to collaborate on Full Stack Web Development.
 - 📫 How to reach me: tackpablo@gmail.com
-- 💃 Ambivert
+- :bulb: Ambivert
 
 ## Connect with me :globe_with_meridians::
 

@@ -20,7 +20,7 @@ I'm very passionate about programming and in the process of learning all the too
 - <a href="https://www.linkedin.com/in/pablotack/">
     My LinkedIn
   </a>
-- <a href="https://resume.creddle.io/resume/ax7ezvyocao">
+- <a href="https://www.canva.com/design/DAGVJAN6EsA/jOWkEs0Mc3jQ4V9UuxE2Pw/view?utm_content=DAGVJAN6EsA&utm_campaign=designshare&utm_medium=link&utm_source=editor">
     My Resume
   </a>
 
